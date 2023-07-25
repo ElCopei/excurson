@@ -1,0 +1,50 @@
+html {
+    background-color: black;
+    text-align: center;
+}
+h1 {
+    font-family: verdana;
+    font-weight: normal;
+    color: white;
+    
+}
+a {
+    color: aquamarine;
+    text-decoration: underline;
+    font-size: 16px;
+    display: block;
+    margin-bottom: 30px;
+    margin-top: 30px;
+}
+p{
+    font-family: verdana;
+    font-size: 21px;
+    color: gray;
+}
+video {
+    width: 403.98px;
+    height: 720px;
+}
+
+div .content {
+    text-align: center;
+    margin-left: 100px;
+}
+
+.camp {
+    width: 896px;
+    height: 526.99px;
+    display: block;
+    margin-left: 200px;   
+}
+.icon {
+    width: 63.98px;
+    height: 107.99;
+    margin-top: 30px;
+}
+footer {
+    text-align: right;
+}
+footer p {
+    font-size: 15px;
+}
